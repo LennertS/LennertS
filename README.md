@@ -6,7 +6,7 @@
 ### Some technologies I use
 <div style="display:flex;">
 
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" style="text-decoration:none;" target="_blank" >
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" style="width:50px;" target="_blank" >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="50px">
   </a>
   
